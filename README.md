@@ -70,6 +70,8 @@ In diesem Projekt wollen wir ein spannendes Multiplayer-Spiel erschaffen, das ä
 | 4.A  | 15.11.2024 | Lukas     | Grundstruktur für Multiplayer-Interaktionen                                                      | 45'           |
 | 4.B  | 15.11.2024 | Lukas     | Synchronisation zwischen zwei Spielern                                                           | 45'           |
 | 4.C  | 15.11.2024 | Lukas     | Testen und Debuggen der Multiplayer-Funktion                                                     | 45'           |
+| 4.D  | 22.11.2024 | Lukas     | Einbauen von Host und Join Button / Joinen per Code einbauen anstelle von IP eingeben                                                      | 90'           |
+| 4.E  | 22.11.2024 | Lukas     | Multiplayer vereinfachen, ausschalten der Firewall verhindern um zu Joinen                                                | 90'           |
 | 5.A  | 29.11.2024 | Kamil     | Anzeige der Kills pro Spieler am Rundenende                                                      | 45'           |
 | 5.B  | 29.11.2024 | Kamil     | Anzeige der Tode pro Spieler am Rundenende                                                       | 45'           |
 | 5.C  | 29.11.2024 | Kamil     | Anzeige der gesammelten Power-Ups pro Spieler am Rundenende                                      | 45'           |
