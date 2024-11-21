@@ -7,6 +7,11 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   01.11.2024    | 0.0.1   | Projektbeginn, Informieren und Planen |
+|     08.11.2024    | 0.0.2     |      verzögerung wegen Kickoff IDPA,  ànderung von Plan, zuerst Hauptmenu und settings , danach select screen, Hauptscreen erstellt und implementiert.                                                     |
+|   15.11.2024      | 0.0.3      |    Settingsmenu erstellt und implementiert, verzögerung mit verbindung der Hauptmenu und settings, da one dirve ablage nicht synchronisiert hat                                                        |
+|    22.11.2024     | 0.0.4      |                                                              |
+|       | ...     |                                                              |
+|       | ...     |                                                              |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -98,7 +103,9 @@ In diesem Projekt wollen wir ein spannendes Multiplayer-Spiel erschaffen, das ä
 
 Total: 36 Arbeitspakete
 
+## 3 Entscheiden
 
+## 4 Realisieren
 
 ## 5 Kontrollieren
 
