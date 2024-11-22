@@ -105,7 +105,8 @@ Total: 36 Arbeitspakete
 
 ## 3 Entscheiden
 Anstatt den Charakterauswahlbildschirm zu erstellen, hat Kamil sich entschieden zuerst das Haupt Menü und Einstellungen des Menüs erstellt.
-Kamil lässt die Gamepad-Unterstützung gerade weg, vielleicht wird er es kurz vor dem Ende vom Projekt wieder aufnehmen.
+Kamil lässt die Gamepad-Unterstützung gerade weg, vielleicht wird er es kurz vor dem Ende vom Projekt wieder aufnehmen.  
+
 Neue Arbeitspakete für Lukas:
 - Einbauen von Host und Join Button / Joinen per Code einbauen anstelle von IP eingeben                                                     
 - Multiplayer vereinfachen, ausschalten der Firewall verhindern um zu Joinen     
