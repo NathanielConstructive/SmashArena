@@ -28,7 +28,7 @@ In diesem Projekt wollen wir ein spannendes Multiplayer-Spiel erschaffen, das ä
 | 2    | Muss            | Funktional   | Als Spieler möchte ich, dass sich die Charaktere verschiedene Attacken besitzen.        |
 |3|Muss|Funktional|Als Spieler möchte ich, dass ich mit meinem Charakter laufen kann, damit ich angreifen kann.|
 |4|Muss|Funktional|Als Spieler möchte ich, dass ich mit meinem Charakter springen kann, um Angriffe auszuweichen.|
-|5|Muss|Funktional|Als Spieler möchte ich angreiffen können, damit ich gewinnen kann.|
+|5|Muss|Funktional|Als Spieler möchte ich angreifen können, damit ich gewinnen kann.|
 |6|Muss|Qualität|Als Spieler möchte ich je nach Eingabe eine Animation haben, damit das Spiel anschaulich aussieht.|
 | 7    | Muss            | Funktional   | Als Spieler möchte ich Power-Ups nutzen können, die mir kurzzeitig Vorteile im Spiel bieten.                          |
 | 8    | Muss            | Funktional   | Als Spieler möchte ich ein Multiplayer-Spiel spielen können, um gegen andere Spieler anzutreten.                       |
