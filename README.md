@@ -1,15 +1,13 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   01.11.2024    | 0.0.1   | Projektbeginn, Informieren und Planen |
-|     08.11.2024    | 0.0.2     |      verzögerung wegen Kickoff IDPA,  Änderung von Plan, zuerst Hauptmenu und settings , danach select screen, Hauptscreen erstellt und implementiert.                                                     |
-|   15.11.2024      | 0.0.3      |    Settingsmenu erstellt und implementiert, verzögerung mit verbindung der Hauptmenu und settings, da one dirve ablage nicht synchronisiert hat                                                        |
-|    22.11.2024     | 0.0.4      |                                                              |
+|     08.11.2024    | 0.0.2     |      verzögerung wegen Kickoff IDPA,  Änderung von Plan, zuerst Hauptmenu und settings , danach select screen, Hauptscreen erstellt und implementiert, sowie Einen Character mit Hitboxes erstellt.                                                     |
+|   15.11.2024      | 0.0.3      |    Settingsmenu erstellt und implementiert, verzögerung mit verbindung der Hauptmenu und settings, da one dirve ablage nicht synchronisiert hat. Der Charakter kann sich mittlerweile auch bewegen, sowie springen.                                                        |
+|    22.11.2024     | 0.0.4      |  Der Charakter kann jetzt Schaden ausliefern und hat jetzt Animationen.                                                            |
 |       | ...     |                                                              |
 |       | ...     |                                                              |
 |       | ...     |                                                              |
