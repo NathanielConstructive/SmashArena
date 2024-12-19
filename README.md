@@ -2,16 +2,17 @@
 
 
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|   01.11.2024    | 0.0.1   | Projektbeginn, Informieren und Planen |
-|     08.11.2024    | 0.0.2     |      verzögerung wegen Kickoff IDPA,  Änderung von Plan, zuerst Hauptmenu und settings , danach select screen, Hauptscreen erstellt und implementiert, sowie Einen Character mit Hitboxes erstellt.                                                     |
-|   15.11.2024      | 0.0.3      |    Settingsmenu erstellt und implementiert, verzögerung mit verbindung der Hauptmenu und settings, da one dirve ablage nicht synchronisiert hat. Der Charakter kann sich mittlerweile auch bewegen, sowie springen.                                                        |
-|    22.11.2024     | 0.0.4      |  Der Charakter kann jetzt Schaden ausliefern und hat jetzt Animationen.                                                            |
-|       | ...     |                                                              |
-|       | ...     |                                                              |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum       | Version | Zusammenfassung                                                                                                                                               |
+|-------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01.11.2024  | 0.0.1   | Projektbeginn, Informieren und Planen                                                                                                                          |
+| 08.11.2024  | 0.0.2   | Verzögerung wegen Kickoff IDPA, Änderung von Plan, zuerst Hauptmenü und Settings, danach Select Screen, Hauptscreen erstellt und implementiert, sowie einen Character mit Hitboxes erstellt. |
+| 15.11.2024  | 0.0.3   | Settingsmenu erstellt und implementiert, Verzögerung mit Verbindung der Hauptmenü und Settings, da OneDrive-Ablage nicht synchronisiert hat. Der Charakter kann sich mittlerweile auch bewegen und springen. |
+| 22.11.2024  | 0.0.4   | Der Charakter kann jetzt Schaden ausliefern und hat Animationen. Implementierung einer einfachen KI, die sich bewegen kann und Angriffsfunktion für die KI. |
+| 29.11.2024  | 0.0.5   | Charakter Auswahl Menu erstellt, neues Powerup implementiert, einfache KI (bewegend, angreifend) entwickelt, Charakter 2 und 3 hinzugefügt.                   |
+| 06.12.2024  | 0.0.6   | Entwicklung der Singleplayer-Funktion (Charakterauswahl und Kampf gegen einen Bot), dmgboost und speedboost Powerups, Ingame-Timer, KI verfeinert.              |
+| 13.12.2024  | 0.0.7   | Attacken mit verändertem AttackPoint implementiert, Angriffsanzeige verbessert, Multiplayer in Grundfunktion, statsscreen und random boost spawner.             |
+| 20.12.2024  | 1.0.0   |    |
+
 
 ## 1 Informieren
 
@@ -113,8 +114,14 @@ In diesem Projekt wollen wir ein spannendes Multiplayer-Spiel erschaffen, das ä
 Total: 36 Arbeitspakete
 
 ## 3 Entscheiden
-- Anstatt den Charakterauswahlbildschirm zu erstellen, hat Kamil sich entschieden zuerst das Haupt Menü und Einstellungen des Menüs erstellt.
-- Kamil lässt die Gamepad-Unterstützung gerade weg, vielleicht wird er es kurz vor dem Ende vom Projekt wieder aufnehmen.  
+- Anstatt den Charakterauswahlbildschirm zu erstellen, hat Kamil sich entschieden, zuerst das Hauptmenü und das Einstellungsmenü zu erstellen.
+- Kamil lässt die Gamepad-Unterstützung vorerst weg, vielleicht wird er es kurz vor dem Ende des Projekts wieder aufnehmen.
+- Die User Stories für die Charaktere wurden überarbeitet und in kleinere User Stories aufgeteilt, um sie besser abarbeiten zu können.
+- Mirhan hat entschieden, die Charaktere und den Bot von Lukas in Kamils Projekt zu übertragen, um einen Prototypen zu erstellen, statt zwei Arbeitspakete zu bearbeiten.
+- Mirhan hat zusätzlich eine Abblinkzeit nach dem Schlagen eingebaut, die je nach Charakter variiert, um den Angriffsausgleich zu verbessern.
+- Bei der Angriffsfunktion wurde eine visuelle Anzeige hinzugefügt, um besser zu sehen, wann der Angriff ausgeführt wird.
+- Das Projekt von Lukas wurde in Kamils Projekt integriert, da Lukas’ PC abgestürzt ist und seine Daten verloren gingen.
+
 
 Neue Arbeitspakete für Lukas:
 - Einbauen von Host und Join Button / Joinen per Code einbauen anstelle von IP eingeben                                                     
