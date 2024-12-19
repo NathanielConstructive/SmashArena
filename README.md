@@ -139,4 +139,4 @@ Neue Arbeitspakete für Lukas:
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+(https://bbbaden-my.sharepoint.com/personal/m_oezden_inf22_stud_bbbaden_ch/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fm%5Foezden%5Finf22%5Fstud%5Fbbbaden%5Fch%2FDocuments%2FLA%5FSmashArena&ct=1734629935488&or=Teams%2DHL&ga=1&LOF=1)
