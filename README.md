@@ -120,7 +120,7 @@ Total: 36 Arbeitspakete
 - Mirhan hat entschieden, die Charaktere und den Bot von Lukas in Kamils Projekt zu übertragen, um einen Prototypen zu erstellen, statt zwei Arbeitspakete zu bearbeiten.
 - Mirhan hat zusätzlich eine Abblinkzeit nach dem Schlagen eingebaut, die je nach Charakter variiert, um den Angriffsausgleich zu verbessern.
 - Bei der Angriffsfunktion wurde eine visuelle Anzeige hinzugefügt, um besser zu sehen, wann der Angriff ausgeführt wird.
-- Das Projekt von Lukas wurde in Kamils Projekt integriert, da Lukas’ PC abgestürzt ist und seine Daten verloren gingen.
+
 
 
 Neue Arbeitspakete für Lukas:
